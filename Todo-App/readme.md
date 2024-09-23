@@ -5,8 +5,9 @@ A simple and intuitive Todo List application built with HTML, CSS, and JavaScrip
 ## [Live Demo]
 (https://todo-js--ebon.vercel.app/)
 
-[Screenshot (228)]
-(https://github.com/user-attachments/assets/85329e1b-a4e8-4dab-a807-f69247aa51f2)
+
+![Screenshot (228)](https://github.com/user-attachments/assets/e0c46640-d27b-4cf1-9f42-6ba97764336a)
+
 ## Features
 
 - **Add Todos**: Enter a task in the input field and click the "Add Todo" button to add the task to the list.
@@ -34,5 +35,6 @@ A simple and intuitive Todo List application built with HTML, CSS, and JavaScrip
 
 4. **Deleting a Todo**:
    - Click the "Delete" button next to the task to remove it from the list.
+
 
 
