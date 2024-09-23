@@ -10,6 +10,7 @@ A simple and interactive **Color Picker** built using vanilla JavaScript, HTML, 
 
 ## 🚀 Live Demo
 
+https://color-picker-js-project-1.vercel.app/
 
 ## 🖼️ Screenshots
 
@@ -20,9 +21,4 @@ A simple and interactive **Color Picker** built using vanilla JavaScript, HTML, 
 - A modern web browser (e.g., Chrome, Firefox, Edge)
 - No additional dependencies required.
 
-### 🔧 Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/color-picker.git
 
