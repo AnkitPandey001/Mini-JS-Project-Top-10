@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Music Player App</title>
+    <link rel="stylesheet" href="index.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  </head>
+  <body>
+    <div class="player">
+      <h1>Music Player</h1>
+      <img
+        class="imgmusic"
+        id="songImage"
+        src="https://imgs.search.brave.com/Rk5RWhx5LYRTVCUohNb3Mls4R2_yikujfYBWFIE1LMY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9saDMu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL0Za/eXptcGk5aXppcXV4/WUlVVVR2WlR2Z0FV/bUNDczVpR3lsM1Zu/YWZIZVFvQmVGZGlW/bkdZMURHbkJNVzk0/QU9XNUE.jpeg"
+      />
+      <div id="currentSong"><span>Now Playing:</span></div>
+      <audio id="audioPlayer" controls>
+        <source id="audioSource" src="song1.mp3" type="audio/mp3" />
+        Your browser does not support the audio element.
+      </audio>
+      <div class="controls">
+        <button id="prevBtn">Next</i></button>
+        <button id="nextBtn">Prev</button>
+      </div>
+    </div>
+  </body>
+  <script src="script.js"></script>
+</html>
